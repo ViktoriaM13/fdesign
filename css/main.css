@@ -516,6 +516,7 @@ a, a:hover, a:active {
 @media screen and (max-width: 575px) {
 	.container {
 		width: 90%;
+		flex-direction: column;
 	}
 	.header {
 		padding-bottom: 90px;
@@ -533,9 +534,6 @@ a, a:hover, a:active {
 	}
 	.offer__items li:first-child {
 		margin-bottom: 10px;
-	}
-	.footer .container {
-		flex-direction: column;
 	}
 	.detail {
 		text-align: center;
