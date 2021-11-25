@@ -534,6 +534,9 @@ a, a:hover, a:active {
 	.offer__items li:first-child {
 		margin-bottom: 10px;
 	}
+	.footer .container {
+		flex-direction: column;
+	}
 	.detail {
 		text-align: center;
 	}
