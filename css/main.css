@@ -534,4 +534,10 @@ a, a:hover, a:active {
 	.offer__items li:first-child {
 		margin-bottom: 10px;
 	}
+	.detail {
+		text-align: center;
+	}
+	.footer .logo {
+		margin: 20px 0;
+	}
 }
